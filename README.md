@@ -1,4 +1,4 @@
-# Assignment 1: Financial Ratios Analysis 
+# 1. Financial Ratios Analysis 
 
 This repository contains SAS code and analysis for Assignment 1, which focuses on financial ratios using the Funda dataset from the past 10 years. The analysis addresses the following questions:
 
@@ -17,7 +17,7 @@ This repository contains SAS code and analysis for Assignment 1, which focuses o
 7. **Regression Analysis**: Use regression to show how ROE is related to various firm characteristics, clustering standard errors at the two-digit NAIC industry levels. Present the regression table with variable names, coefficients, and t-stats, along with a brief explanation of the results.
 
 The analysis provides valuable insights into financial trends, ratios, and their impact on company performance, making it a comprehensive resource for financial analysis.
-# Contrarian and Momentum Trading Strategies - Data Analysis
+# 2. Contrarian and Momentum Trading Strategies - Data Analysis
 
 ## Overview
 This repository contains code and analysis to replicate Contrarian and Momentum trading strategies using CRSP monthly return data. The goal of this project is to investigate the performance of these strategies under different time horizons and analyze the results in comparison to the original research.
