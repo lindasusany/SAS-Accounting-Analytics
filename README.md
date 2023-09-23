@@ -1,3 +1,22 @@
+# Assignment 1: Financial Ratios Analysis 
+
+This repository contains SAS code and analysis for Assignment 1, which focuses on financial ratios using the Funda dataset from the past 10 years. The analysis addresses the following questions:
+
+1. **Count Distinct Values**: Count the distinct gvkey, trading symbols, and 2-digit industries in the Funda dataset for each year.
+
+2. **DuPont Analysis**: Calculate a 5-step DuPont analysis for companies, including relevant data items such as cusip, two-digit NAICS codes, liquidity, solvency, and create the necessary ratios affecting ROA.
+
+3. **Winsorization**: Winsorize the sample at 5 and 95 percent levels and verify the winsorization.
+
+4. **Median Financial Ratios**: Choose two financial ratios for each of the 5 categories and compute the median values for these ratios by two-digit NAICS codes and fiscal year, providing brief interpretations of the findings.
+
+5. **DuPont 3-Factors Analysis**: Compute the median values of the DuPont 3-factors over any 5 years and visualize these ratios' variations over time, drawing conclusions from the trends observed.
+
+6. **Tesla Revenue Growth**: Plot the revenue growth of Tesla (TIC: TSLA) over the years and provide a brief discussion of the findings.
+
+7. **Regression Analysis**: Use regression to show how ROE is related to various firm characteristics, clustering standard errors at the two-digit NAIC industry levels. Present the regression table with variable names, coefficients, and t-stats, along with a brief explanation of the results.
+
+The analysis provides valuable insights into financial trends, ratios, and their impact on company performance, making it a comprehensive resource for financial analysis.
 # Contrarian and Momentum Trading Strategies - Data Analysis
 
 ## Overview
