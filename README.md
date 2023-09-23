@@ -31,6 +31,13 @@ Number of Groups:
 - **2010s**: In the 2010s, Momentum strategy displayed modest positive performance, with past winner portfolios outperforming past loser portfolios (LONG_SHORT: 0.0286).
 - **2020s**: Momentum strategy had a significant underperformance, with past winner portfolios outperforming past loser portfolios (LONG_SHORT: -0.3192).
 
+Scenario 1: Three-year formation period and one-year holding period
+![image](https://github.com/lindasusany/SAS-Accounting-Analytics/assets/75594927/211e8931-3d59-46ad-9565-fccbcd3112c6)
+![image](https://github.com/lindasusany/SAS-Accounting-Analytics/assets/75594927/8ba93dcf-d3a2-45b4-a0f8-278a24a9809f)
+Scenario 2: Two-year formation period and one-year holding period 
+![image](https://github.com/lindasusany/SAS-Accounting-Analytics/assets/75594927/daebe10d-7eec-4197-9a25-bd3006ea5d30)
+![image](https://github.com/lindasusany/SAS-Accounting-Analytics/assets/75594927/f92e91d6-e877-43c4-8e26-bb81b7bb303e)
+
 ## Discussion
 The performance of Contrarian and Momentum trading strategies varies across different decades, highlighting the importance of adapting investment strategies to changing market conditions. Contrarian strategies may perform well in some decades, while Momentum strategies exhibit strong performance in others. These findings underscore the need for adaptive and data-driven investment approaches, considering the specific time period and market dynamics.
 
